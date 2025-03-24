@@ -1,6 +1,6 @@
 package com.example;
 
-import org.junit.jupiter.api.Test; // ✅ JUnit 5 (ĐÚNG)
+import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 /**
  * Unit test for simple App.
