@@ -1,0 +1,8 @@
+/Users/dongockhanh/WebstormProjects/Java/java-email-reader/src/main/java/com/example/App.java
+/Users/dongockhanh/WebstormProjects/Java/java-email-reader/src/main/java/com/example/repository/EmailRepository.java
+/Users/dongockhanh/WebstormProjects/Java/java-email-reader/src/main/java/com/example/controller/EmailController.java
+/Users/dongockhanh/WebstormProjects/Java/java-email-reader/src/main/java/com/example/listener/EmailListener.java
+/Users/dongockhanh/WebstormProjects/Java/java-email-reader/src/main/java/com/example/model/Email.java
+/Users/dongockhanh/WebstormProjects/Java/java-email-reader/src/main/java/com/example/scheduler/EmailScheduler.java
+/Users/dongockhanh/WebstormProjects/Java/java-email-reader/src/main/java/com/example/service/EmailStorageService.java
+/Users/dongockhanh/WebstormProjects/Java/java-email-reader/src/main/java/com/example/service/EmailService.java
